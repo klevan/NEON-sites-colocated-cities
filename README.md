@@ -2,7 +2,7 @@
 A repo to share code that determines the proximity of NEON sites to US cities
 
 ## Background
-I've been asked more than once what cities are closest to NEON sampling site locations. The `sp` library has a nice implementation of a distance calculator (using Great Circle distance) and the `maps` library has a 
+I've been asked more than once what cities are closest to NEON sampling site locations. The `sp` library has a nice implementation of a distance calculator (using Great Circle distance) and the `maps` library has a simple database of city populations from 2006. 
 
 ## Code chunks
 
